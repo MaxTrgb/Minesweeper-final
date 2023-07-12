@@ -1,0 +1,5 @@
+﻿  Minesweeper.cpp
+D:\project\Minesweeper\Minesweeper\Header.h(321,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\project\Minesweeper\Minesweeper\Header.h(224): warning C4715: alreadyUncovered: значение возвращается не при всех путях выполнения
+  LINK : не найден или не выполнена сборка D:\project\Minesweeper\Debug\Minesweeper.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Minesweeper.vcxproj -> D:\project\Minesweeper\Debug\Minesweeper.exe
