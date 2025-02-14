@@ -1,4 +1,4 @@
-# Project-final
+# Minesweeper
 
 This code implements the Saper game in console mode. Let's consider the order of execution of functions:
 1. chooseDifficulty(): This function displays the game difficulty selection menu and waits for user input. Depending on the selected difficulty, it sets the values of the SIDE and MINES variables, which determine the size of the field and the number of mines, respectively.
